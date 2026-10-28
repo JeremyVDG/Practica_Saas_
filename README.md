@@ -1,2 +1,2 @@
 # Practica_Saas_
-Hecho por carmen y jeremy
+Este Repositorio fue creado por Carmen Lorenzo Sans y Jeremy Díaz Medina para la demostración del modelo SaaS.
